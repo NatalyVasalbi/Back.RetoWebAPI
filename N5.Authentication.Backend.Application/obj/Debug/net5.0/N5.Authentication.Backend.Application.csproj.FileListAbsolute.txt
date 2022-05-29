@@ -1,0 +1,89 @@
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CopyComplete
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\gonza\source\repos\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CopyComplete
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+D:\RETOS\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CopyComplete
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CopyComplete
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\Gustavo Gonzales\Downloads\N5.Authentication.Backend - copia\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.deps.json
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Application.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\bin\Debug\net5.0\N5.Authentication.Backend.Domain.pdb
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.AssemblyReference.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfoInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.AssemblyInfo.cs
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.csproj.CopyComplete
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\ref\N5.Authentication.Backend.Application.dll
+C:\Users\nvasq\Downloads\N5.Authentication.Backend (1)\N5.Authentication.Backend\N5.Authentication.Backend.Application\obj\Debug\net5.0\N5.Authentication.Backend.Application.pdb
